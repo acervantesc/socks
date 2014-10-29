@@ -1,0 +1,124 @@
+body {
+    text-align: center;
+    font-family:Helvetica;
+    background-color: rgba(53, 61, 70, 0.5);
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 10px;
+    margin-top: 100px;
+}
+
+h2{
+    color:white;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+    
+input {
+    color:white;
+    height: 20px;
+    width: 250px;
+         
+}
+
+#sneakers{
+    height: 150px;
+    width: 150px;
+    border-radius:100px;
+}
+#dress{
+    height: 150px;
+    width: 150px;
+    border-radius:100px;
+}
+
+#boots{
+    height: 150px;
+    width: 150px;
+    border-radius:100px;
+}
+}
+
+}
+
+#shoes {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    font-family: helvetica;
+}
+    
+#answer, #question {
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#red {
+    visibility: hidden;
+}
+#red{
+    background-color: rgba(255, 44, 44, 0.9);
+    border: none;
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    padding:20px 20px;
+    border-radius:100px;
+    
+}
+#blue{
+    background-color: rgba(73, 110, 204, 0.9);
+    border: none;
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    padding:20px 20px;
+    border-radius:100px;
+    
+}
+
+#brown{
+    background-color: rgba(129, 87, 38, 0.9);
+    border: none;
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    padding:20px 20px;
+    border-radius:100px;
+    
+}
+
+#yellow{
+    background-color: rgba(255, 255, 23, 0.9);
+    border: none;
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    padding:20px 20px;
+    border-radius:100px;
+    
+}
+#gray{
+    background-color:gray;
+    border: none;
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    padding:20px 20px;
+    border-radius:100px;
+
+}
+
+button{
+    background:white;
+    background-color:white; 
+    font-family: helvetica;
+    font-size: 15px;
+    text-decoration:none;
+    border: none;
+    padding:10px 10px;
+    
+}
